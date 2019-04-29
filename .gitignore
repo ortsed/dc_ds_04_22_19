@@ -2,4 +2,6 @@
 *.ipynb_checkpoints
 *.pytest_cache
 *.pyc
+*.csv
+*.zip
 *__pycache__
